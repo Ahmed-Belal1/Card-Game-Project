@@ -1,4 +1,4 @@
-# Hearthstone-game
+# Card-game
 
 This project is a two player card game.
 
